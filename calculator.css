@@ -9,7 +9,7 @@ body{
     
 }
 main{
-    border: 1px solid gray;
+    border: 1px solid gray;  
     display: flex;
     flex-direction: column;
     justify-content: center;
